@@ -1,1 +1,1 @@
-# Child Properties and transitions
+# Positions and images
